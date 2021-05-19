@@ -4,10 +4,6 @@ Download (Windows 64 bit): https://drive.google.com/drive/folders/1-GUNp7RExbpYU
 
 
 
-
-
-Implementation Notes
-
 Implementation features:
 
 FPS camera
