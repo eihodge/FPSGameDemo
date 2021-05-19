@@ -4,7 +4,7 @@ Implementation Notes
 
 Implemented so far:
 FPS camera
-player model w/ blend space for
+*player model w/ blend space for
 >walk/run
 >sprint
 >crouch
